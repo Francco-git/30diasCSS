@@ -9,4 +9,4 @@ Regras gerais
 Realizar um projeto por dia
 Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS
 
-https://i.imgur.com/Ugy07ps.gif
+![dia2](https://i.imgur.com/Ugy07ps.gif)
