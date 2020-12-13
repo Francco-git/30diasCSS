@@ -13,10 +13,10 @@ Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.)
 
 [linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6743722718916562944/?commentUrn=urn%3Ali%3Acomment%3A(ugcPost%3A6743722683348860928%2C6743723267300839424))
 
-![dia1](https://i.imgur.com/zKU0XvE.png)
+![dia1](https://i.imgur.com/Ugy07ps.gif)
 
 ## Dia 02 (Particulas Animadas)
 
 [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6744012809278910464/)
 
-
+![dia2](https://i.imgur.com/zKU0XvE.png)
