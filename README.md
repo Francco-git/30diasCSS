@@ -9,6 +9,6 @@ Regras gerais
 Realizar um projeto por dia
 Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS
 
+## Dia 01 (Icones de midias sociais em camadas)
 
-Dia 01 (Icones de midias sociais em camadas)
 ![dia1](https://i.imgur.com/Ugy07ps.gif)
