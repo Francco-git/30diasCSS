@@ -8,3 +8,5 @@ Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não
 Regras gerais
 Realizar um projeto por dia
 Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS
+
+https://i.imgur.com/Ugy07ps.gif
