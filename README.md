@@ -20,3 +20,9 @@ Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.)
 [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6744012809278910464/)
 
 ![dia2](https://i.imgur.com/zKU0XvE.png)
+
+## Dia 03 (Mudança de cor de texto quando entra em outra div)
+
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6744435025271369728/)
+
+![dia3](https://i.imgur.com/V0P4E2H.gif)
