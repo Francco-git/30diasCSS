@@ -26,3 +26,9 @@ Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.)
 [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6744435025271369728/)
 
 ![dia3](https://i.imgur.com/V0P4E2H.gif)
+
+## Dia 04 (Menu criativo usando efeitos do Hover)
+
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6744780249847865344/)
+
+![dia4](https://i.imgur.com/ifWUxBj.gif)
