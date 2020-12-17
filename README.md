@@ -35,4 +35,6 @@ Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.)
 
 ## Dia 05 (Efeito Pulsar)
 
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6745127953320960000/)
+
 ![dia5](https://i.imgur.com/6EgFgKi.gif)
