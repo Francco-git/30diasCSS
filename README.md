@@ -38,3 +38,9 @@ Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.)
 [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6745127953320960000/)
 
 ![dia5](https://i.imgur.com/6EgFgKi.gif)
+
+## Dia 06 (Botão Animado)
+
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6745127953320960000/)
+
+![dia6](https://i.imgur.com/hw8mCqH.gif)
