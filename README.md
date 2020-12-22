@@ -51,3 +51,9 @@ Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.)
 
 ![dia7](https://i.imgur.com/HqsVKnx.gif)
 
+## Dia 08 (Olhos mexendo com o mouse)
+
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6746971747037282304/)
+
+![dia8](https://i.imgur.com/A8SN3qf.gif)
+
