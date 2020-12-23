@@ -57,3 +57,10 @@ Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.)
 
 ![dia8](https://i.imgur.com/A8SN3qf.gif)
 
+
+## Dia 09 (Pendulo de Newton)
+
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6747338307715244032/)
+
+![dia9](https://i.imgur.com/xXMfFbV.gif)
+
