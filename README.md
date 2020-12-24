@@ -64,3 +64,9 @@ Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.)
 
 ![dia9](https://i.imgur.com/xXMfFbV.gif)
 
+## Dia 10 (Eu amo)
+
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6747705099562323968/)
+
+![dia10](https://i.imgur.com/DkIjTQx.gif)
+
