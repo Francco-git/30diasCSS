@@ -70,3 +70,10 @@ Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.)
 
 ![dia10](https://i.imgur.com/DkIjTQx.gif)
 
+
+## Dia 11 (Icones com efeito Hover)
+
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6749472903592468480/)
+
+![dia11](https://i.imgur.com/jDPGNXR.gif)
+
