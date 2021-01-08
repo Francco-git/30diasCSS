@@ -77,3 +77,10 @@ Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.)
 
 ![dia11](https://i.imgur.com/jDPGNXR.gif)
 
+
+## Dia 12 (Efeito de preenchimento ao passar o mouse)
+
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6753116661487833088/)
+
+![dia12](https://i.imgur.com/c3MfcD0.gif)
+
