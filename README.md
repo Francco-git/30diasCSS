@@ -90,3 +90,10 @@ Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.)
 [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6754573399244189696/)
 
 ![dia13](https://i.imgur.com/Df5IKZF.gif)
+
+
+## Dia 14 (Loading com efeito)
+
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6754892627642085376/)
+
+![dia14](https://i.imgur.com/ODh5Qep.gif)
