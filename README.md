@@ -92,8 +92,15 @@ Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.)
 ![dia13](https://i.imgur.com/Df5IKZF.gif)
 
 
-## Dia 14 (Loading com efeito)
+## Dia 14 (Fundo com Texto Animado)
 
 [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6754892627642085376/)
 
 ![dia14](https://i.imgur.com/ODh5Qep.gif)
+
+
+## Dia 15 (Texto Flutuante)
+
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6755677800667086848/)
+
+![dia15](https://i.imgur.com/1K8Ftfo.gif)
