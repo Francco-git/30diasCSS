@@ -112,3 +112,9 @@ Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.)
 
 ![dia16](https://i.imgur.com/8k2l1wB.gif)
 
+
+## Dia 17 (Elastic line animation)
+
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6759999124310913024/)
+
+![dia17](https://i.imgur.com/yndgTKG.gif)
