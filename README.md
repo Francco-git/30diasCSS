@@ -118,3 +118,9 @@ Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.)
 [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6759999124310913024/)
 
 ![dia17](https://i.imgur.com/yndgTKG.gif)
+
+## Dia 18 (Texto Esfumaçado)
+
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6760348062972952576/)
+
+![dia18](https://i.imgur.com/MVuazJu.gif)
