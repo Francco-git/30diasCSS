@@ -124,3 +124,11 @@ Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.)
 [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6760348062972952576/)
 
 ![dia18](https://i.imgur.com/MVuazJu.gif)
+
+
+## Dia 19 (Animação de particulas)
+
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6760725833872224256/)
+
+![dia19](https://i.imgur.com/t48qudT.gif)
+
