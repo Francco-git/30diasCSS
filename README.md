@@ -138,3 +138,10 @@ Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.)
 [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6761091636924579840/)
 
 ![dia20](https://i.imgur.com/YloyieD.gif)
+
+
+## Dia 21 (Esferas Quicando)
+
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6762025778470240256/)
+
+![dia21](https://i.imgur.com/srOrmy5.gif)
