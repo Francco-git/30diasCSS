@@ -159,3 +159,10 @@ Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.)
 [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6763241048954155008/)
 
 ![dia23](https://i.imgur.com/Y7Bo76a.gif)
+
+
+## Dia 24 (Preloader animado)
+
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6763621778435661824/)
+
+![dia24](https://i.imgur.com/R8jmDSb.gif)
