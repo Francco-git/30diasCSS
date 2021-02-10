@@ -166,3 +166,10 @@ Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.)
 [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6763621778435661824/)
 
 ![dia24](https://i.imgur.com/R8jmDSb.gif)
+
+
+## Dia 25 (Checkbox Animado)
+
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6765065244466266112/)
+
+![dia25](https://i.imgur.com/TpClxRR.gif)
