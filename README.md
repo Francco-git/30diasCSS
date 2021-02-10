@@ -173,3 +173,10 @@ Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.)
 [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6765065244466266112/)
 
 ![dia25](https://i.imgur.com/TpClxRR.gif)
+
+
+## Dia 26 (Loading com efeito)
+
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6765413652561448960/)
+
+![dia26](https://i.imgur.com/YdThdmt.gif)
