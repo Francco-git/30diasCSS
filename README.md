@@ -180,3 +180,11 @@ Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.)
 [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6765413652561448960/)
 
 ![dia26](https://i.imgur.com/YdThdmt.gif)
+
+
+## Dia 27 (Efeito Pulsar)
+
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6765784772850548736/)
+
+![dia27](https://i.imgur.com/Jd0t0iH.gif)
+
