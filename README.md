@@ -195,3 +195,10 @@ Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.)
 
 ![dia28](https://i.imgur.com/TNEZ83W.gif)
 
+
+## Dia 29 (Relogio)
+
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6768352746073530369/)
+
+![dia28](https://i.imgur.com/dLMpVKi.gif)
+
