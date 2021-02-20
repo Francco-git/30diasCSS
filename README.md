@@ -200,5 +200,11 @@ Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.)
 
 [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6768352746073530369/)
 
-![dia28](https://i.imgur.com/dLMpVKi.gif)
+![dia29](https://i.imgur.com/dLMpVKi.gif)
 
+
+## Dia 30 (Perfis de amigos)
+
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6768701173428977664/)
+
+![dia30](https://i.imgur.com/IqcZC3Q.gif)
